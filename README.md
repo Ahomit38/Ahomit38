@@ -31,3 +31,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" width="40" height="40"/>
 </div>
+
+### :trophy: Достижения:
