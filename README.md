@@ -33,3 +33,7 @@
 </div>
 
 ### :trophy: Достижения:
+
+<div>
+  img src="https://github-profile-trophy.vercel.app/?username=Ahomit38" alt=""/>
+</div>
