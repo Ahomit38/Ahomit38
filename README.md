@@ -17,3 +17,9 @@
 </div>
 
 ### :atom: Обо мне :
+
+- :male_sign: Красивый
+
+- :trollface: Смешной
+
+- :low_brightness: Чистая душа
