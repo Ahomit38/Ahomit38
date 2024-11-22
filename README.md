@@ -43,3 +43,7 @@
 <div>
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ahomit38" alt=""/>
 </div>
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahomit38" alt=""/>
+</div>
