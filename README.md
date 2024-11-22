@@ -23,3 +23,4 @@
 - :trollface: Смешной
 
 - :low_brightness: Чистая душа
+### hammer_and_wrench: Языки и инструменты
