@@ -41,5 +41,5 @@
 ### :keyboard: Наиболее используемые языки :
 
 <div>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ahonit38" alt=""/>
+  <img src= "https://github.com/anuraghazra/github-readme-stats?username=Ahonit38" alt=""/>
 </div>
